@@ -41,6 +41,11 @@ module.exports = {
         '3/4': '75%',
         '1/1': '100%',
       },
+      text: {
+        red: {
+          100: '#DD533D'
+        },
+      },
       fontFamily: {
         inter: ['Inter', 'sans-serif'],
         'architects-daughter': ['"Architects Daughter"', 'sans-serif']

@@ -23,7 +23,7 @@ function FeaturesBlocks() {
                 <path className="stroke-current text-white" d="M43 42h-9M43 37h-9" strokeLinecap="square" strokeWidth="2" />
               </svg>
               <h4 className="h4 mb-2 text-black-100">Pedido via WhatsApp</h4>
-              <p className="text-lg text-gray-1000 text-center">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.</p>
+              <p className="text-lg text-gray-1000 text-center">Permitir que os clientes façam pedidos diretamente pelo WhatsApp.</p>
             </div>
 
             {/* 2nd item */}
@@ -33,8 +33,8 @@ function FeaturesBlocks() {
                 <path className="stroke-current text-white" strokeWidth="2" strokeLinecap="square" d="M21 23h22v18H21z" fill="none" fillRule="evenodd" />
                 <path className="stroke-current text-white" d="M26 28h12M26 32h12M26 36h5" strokeWidth="2" strokeLinecap="square" />
               </svg>
-              <h4 className="h4 mb-2 text-black-100">Instant Features</h4>
-              <p className="text-lg text-gray-1000 text-center">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.</p>
+              <h4 className="h4 mb-2 text-black-100">Sistema de pedidos</h4>
+              <p className="text-lg text-gray-1000 text-center">Permitir que os clientes façam pedidos diretamente na plataforma.</p>
             </div>
 
             {/* 3rd item */}
@@ -47,8 +47,8 @@ function FeaturesBlocks() {
                   <circle className="stroke-current text-white" cx="11" cy="11" r="11" />
                 </g>
               </svg>
-              <h4 className="h4 mb-2 text-black-100">Instant Features</h4>
-              <p className="text-lg text-gray-1000 text-center">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.</p>
+              <h4 className="h4 mb-2 text-black-100">Opções de pagamento</h4>
+              <p className="text-lg text-gray-1000 text-center">Oferecer diferentes formas de pagamento, como cartão de crédito, débito e dinheiro na entrega.</p>
             </div>
 
             {/* 4th item */}
@@ -60,8 +60,8 @@ function FeaturesBlocks() {
                   <circle className="stroke-current text-white" cx="13" cy="9" r="3" />
                 </g>
               </svg>
-              <h4 className="h4 mb-2 text-black-100">Instant Features</h4>
-              <p className="text-lg text-gray-1000 text-center">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.</p>
+              <h4 className="h4 mb-2 text-black-100">Rastreamento de pedidos</h4>
+              <p className="text-lg text-gray-1000 text-center">Permitir que os clientes rastreiem o status de seus pedidos em tempo real.</p>
             </div>
 
             {/* 5th item */}
@@ -73,8 +73,8 @@ function FeaturesBlocks() {
                   <path className="stroke-current text-white" d="M22 30h4v12h-4z" />
                 </g>
               </svg>
-              <h4 className="h4 mb-2 text-black-100">Instant Features</h4>
-              <p className="text-lg text-gray-1000 text-center">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.</p>
+              <h4 className="h4 mb-2 text-black-100">Notificações</h4>
+              <p className="text-lg text-gray-1000 text-center">Enviar notificações por WhatsApp para informar aos clientes sobre o status do pedido.</p>
             </div>
 
             {/* 6th item */}
@@ -87,8 +87,8 @@ function FeaturesBlocks() {
                   <path className="stroke-current text-white" d="M8.86 1.18C3.8 1.988 0 5.6 0 10c0 5 4.9 9 11 9a10.55 10.55 0 003.1-.4L20 21l-.6-5.2a9.125 9.125 0 001.991-2.948" />
                 </g>
               </svg>
-              <h4 className="h4 mb-2 text-black-100">Instant Features</h4>
-              <p className="text-lg text-gray-1000 text-center">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.</p>
+              <h4 className="h4 mb-2 text-black-100">Promoções</h4>
+              <p className="text-lg text-gray-1000 text-center">Oferecer descontos ou promoções para incentivar os clientes a fazer mais pedidos. </p>
             </div>
 
           </div>

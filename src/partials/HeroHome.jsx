@@ -19,8 +19,8 @@ function HeroHome() {
           <svg className="max-w-full" width="564" height="552" viewBox="0 0 564 552" fill="none" xmlns="http://www.w3.org/2000/svg">
             <defs>
               <linearGradient id="illustration-02" x1="-3.766" y1="300.204" x2="284.352" y2="577.921" gradientUnits="userSpaceOnUse">
-                <stop stopColor="#5D5DFF" stopOpacity=".01" />
-                <stop offset="1" stopColor="#5D5DFF" stopOpacity=".32" />
+                <stop stopColor="#FFFFFF" stopOpacity=".01" />
+                <stop offset="1" stopColor="#FFFFFF" stopOpacity=".32" />
               </linearGradient>
             </defs>
             <path
@@ -44,7 +44,7 @@ function HeroHome() {
             </p>
             <div className="max-w-xs mx-auto sm:max-w-none sm:flex sm:justify-center">
               <div data-aos="fade-up" data-aos-delay="400">
-                <a className="btn text-red-100 bg-white w-full mb-4 sm:w-auto sm:mb-0" href="#0">
+                <a className="btn text-red-100 bg-white hover:bg-gray-100 w-full mb-4 sm:w-auto sm:mb-0" href="#0">
                   Agende uma demonstração                
                 </a>
               </div>

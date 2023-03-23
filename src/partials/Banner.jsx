@@ -2,6 +2,8 @@ import React, { useState } from 'react';
 
 function Banner() {
 
+  return false;
+
   const [bannerOpen, setBannerOpen] = useState(true);
 
   return (

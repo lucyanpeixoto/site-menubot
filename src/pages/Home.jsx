@@ -27,8 +27,8 @@ function Home() {
         <HeroHome />
         <FeaturesBlocks />
         <FeaturesZigZag />
-        <Testimonials />
-        <Newsletter />
+        {/* <Testimonials /> */}
+        {/* <Newsletter /> */}
       </main>
 
       <Banner />
